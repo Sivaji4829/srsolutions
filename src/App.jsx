@@ -852,7 +852,7 @@ Please contact me for the confirmation.`;
             <div className="lg:col-span-1">
               <div className="flex items-center gap-4 mb-10">
                 <div className="bg-white p-1 rounded-xl">
-                   <img src="/logo.png" alt="Logo" className="w-10 h-10 object-contain" onError={(e) => {e.target.style.display='none'; e.target.nextSibling.style.display='block'}} />
+                   <img src="/logo.jpeg" alt="Logo" className="w-10 h-10 object-contain" onError={(e) => {e.target.style.display='none'; e.target.nextSibling.style.display='block'}} />
                    <Shield className="hidden text-blue-800 w-10 h-10" />
                 </div>
                 <span className="font-black text-3xl tracking-tighter">SR SOLUTIONS</span>
