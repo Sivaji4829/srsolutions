@@ -92,7 +92,7 @@ const PRODUCTS = [
     brand: "Hikvision / CP Plus",
     specs: ["4x 2MP Cameras", "4-Ch DVR", "500GB HDD"],
     price: "12,500",
-    img: "src/assets/gadgets/hikvison.png"
+    img: "/hikvison.png"
   },
   {
     id: 'p2',
@@ -100,7 +100,7 @@ const PRODUCTS = [
     brand: "Crucial / Kingston",
     specs: ["3200MHz", "SODIMM", "Lifetime Warranty"],
     price: "2,200",
-    img: "src/assets/gadgets/kingston.png"
+    img: "/kingston.png"
   },
   {
     id: 'p3',
@@ -108,7 +108,7 @@ const PRODUCTS = [
     brand: "TP-Link / d-link",
     specs: ["Dual Band", "AX1500", "High Gain Antennas"],
     price: "4,500",
-    img: "src/assets/gadgets/tplinkdlink.png"
+    img: "/tplinkdlink.png"
   },
   {
     id: 'p4',
@@ -116,16 +116,16 @@ const PRODUCTS = [
     brand: "Western Digital",
     specs: ["Gen3 x4", "3500MB/s Read", "5-Year Warranty"],
     price: "3,100",
-    img: "src/assets/gadgets/nvm.png"
+    img: "/nvm.png"
   }
 ];
 
 const WORKS = [
-  { title: "RVR College Lab", category: "Educational Infrastructure", img: "src/assets/gadgets/rvr.jpeg" },
-  { title: "ADHILAKSHMI NURSING HOME", category: "Healthcare Security", img: "src/assets/gadgets/adi.avif" },
-  { title: "MADHURI LAB", category: "Diagnostic & Lab IT", img: "src/assets/gadgets/madh.avif" },
-  { title: "Solar CC Camera Installations", category: "Eco-Friendly Security", img: "src/assets/gadgets/solar.jpg" },
-  { title: "Human detection tracking and siren cc cameras", category: "AI Advanced Surveillance", img: "src/assets/gadgets/ahud.jpg" }
+  { title: "RVR College Lab", category: "Educational Infrastructure", img: "/rvr.jpeg" },
+  { title: "ADHILAKSHMI NURSING HOME", category: "Healthcare Security", img: "/adi.avif" },
+  { title: "MADHURI LAB", category: "Diagnostic & Lab IT", img: "/madh.avif" },
+  { title: "Solar CC Camera Installations", category: "Eco-Friendly Security", img: "/solar.jpg" },
+  { title: "Human detection tracking and siren cc cameras", category: "AI Advanced Surveillance", img: "/ahud.jpg" }
 ];
 
 // --- Sub-Components ---
