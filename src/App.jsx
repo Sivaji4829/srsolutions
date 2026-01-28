@@ -496,7 +496,7 @@ Please contact me for the confirmation.`;
             <div className="flex-1 relative w-full max-w-2xl">
               <div className="relative z-10 rounded-[3rem] overflow-hidden shadow-[0_50px_100px_-20px_rgba(0,0,0,0.15)] border-[16px] border-white">
                 <img 
-                  src="src/assets/logo.jpeg" 
+                  src="/logo.jpeg" 
                   alt="Security Installation" 
                   className="w-full aspect-[4/3] object-cover"
                 />
@@ -551,7 +551,7 @@ Please contact me for the confirmation.`;
                   <div className="absolute -inset-6 bg-slate-100 rounded-[4rem] rotate-3 -z-10"></div>
                   <div className="absolute -inset-6 bg-blue-50 rounded-[4rem] -rotate-3 -z-10"></div>
                   <img 
-                    src="/src/assets/own.jpg" 
+                    src="/own.jpg" 
                     alt="Owner" 
                     className="rounded-[3.5rem] shadow-2xl w-full object-cover aspect-[4/5] bg-slate-200"
                     onError={(e) => e.target.src = "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=800"}
