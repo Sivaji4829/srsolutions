@@ -488,8 +488,8 @@ Please contact me for the confirmation.`;
                    <Star className="fill-yellow-400 text-yellow-400 w-5 h-5" />
                    <span className="text-sm font-black text-slate-900 tracking-tight">TOP RATED IN GUNTUR</span>
                 </div>
-                <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Hikvision_logo.png" alt="Hikvision" className="h-4 md:h-5" />
-                <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/TP-Link_logo.svg" alt="TP-Link" className="h-6 md:h-7" />
+                <img src="/hikvision.png" alt="Hikvision" className="h-4 md:h-5" />
+                <img src="/tp-link.png" alt="TP-Link" className="h-6 md:h-7" />
               </div>
             </div>
             
@@ -575,7 +575,7 @@ Please contact me for the confirmation.`;
               <div className="grid grid-cols-2 gap-6 mb-12">
                 <div className="bg-slate-50 p-6 rounded-[2rem] border border-slate-100 flex flex-col items-center text-center">
                   <Users size={24} className="text-blue-600 mb-3" />
-                  <div className="text-3xl font-black text-slate-900 mb-1">500+</div>
+                  <div className="text-3xl font-black text-slate-900 mb-1">3000+</div>
                   <div className="text-[10px] font-bold text-slate-400 uppercase tracking-widest">Happy Clients</div>
                 </div>
                 <div className="bg-slate-50 p-6 rounded-[2rem] border border-slate-100 flex flex-col items-center text-center">
